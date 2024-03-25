@@ -1,0 +1,1 @@
+# mami-games-aygaz-genai-bootcamp
