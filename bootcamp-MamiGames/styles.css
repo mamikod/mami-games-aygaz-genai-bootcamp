@@ -1,0 +1,94 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+header {
+  padding: 20px;
+}
+
+.logo {
+  width: 300px;
+  height: 300px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+nav {
+  text-align: right; /* Navigasyonu sağa dayalı hale getirir */
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container .row {
+  margin: 15px 0;
+}
+
+.gallery-item {
+  margin: 10px;
+  position: relative;
+}
+
+.gallery-item img {
+  width: 512px;
+  height: 512px;
+  object-fit: cover;
+  border: 1.5px solid #ffffff;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.gallery-item:hover .overlay {
+  opacity: 1;
+}
+
+.overlay-content {
+  position: absolute;
+  top: 50%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.overlay-content h3 {
+  color: #ffffff;
+}
+
+.overlay-content p {
+  color: #ffffff;
+  font-size: 14px;
+}

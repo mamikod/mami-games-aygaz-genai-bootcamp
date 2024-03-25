@@ -1,0 +1,90 @@
+KODLAMA
+
+ChatGPT 3.5:
+
+Prompt 1: Sen profesyonel bir web site geliştiricisin benim hiç kod yazmadığımı varsayarak sana az sonra vereceğim promptlar eşliğinde benim için bir web sitesi oluşturabilir misin ?
+
+
+Prompt 2: Proje için HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript araçlarını kullanıcaksın.  
+Web sitesi mobil uyumlu ve duyarlı olmak durumunda 
+Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar halinde vermelisin.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir navigasyon menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+
+Web site oluşturulken diğer dikkat edilmesi gereken diğer şeyler:
+1-)Web sitesi bir porfolio galeri web sitesi ve burada video oyun onerileri paylasmak istiyorum.
+2-)Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+3-)Sayfamın header ve footer bölümünde boyutu 300x300 boyutuna getirilmiş ve sol tarafa dayalı olarak düzenlenmiş bir şekilde bir logo olmasını istiyorum.
+4-)Sayfanın içeriğinin galeri görünümünde, her bir satırda 4 adet olmak üzere 512x512 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+5-)Resimlerin altında video oyunlarının adının yazdığı ve içerikleri hakkında 200-350 karakterlik açıklama yazısı bulunan arka planı lacivert yazı stil rengini beyaz olan bir bölüm ekle.
+6-)Resimlerin üzerine gelindiğinde kararan geçiş bir efektine sahip olması güzel bir detay olur.
+7-)Web sitesindeki video oyun afişlerinin resimlerini bir çerçeve içerisine alıp 1.5px kalınlığında çerçeve oluştur
+8-)Web sitesinde koyu tonların üzerine kontrast renkler kullanarak günlük diğer video oyun web sitelerine benzer bir tasarım tarzı kullan.
+ 
+Sana verdiğim komutları tamamıyla anladıysan beni onayla ve her bir komuta harfiyen uyarak, hiç kod yazmamı gerektirmeyecek şekilde kullanıma direkt hazır web sitemi oluştur ve bu kodları bir araya nasıl getireceğimi de bana belirt lütfen.
+
+Prompt 3:bana bu stil dosyasını bağlayarak index.html kodumu tekrar üret
+
+
+Prompt 4:Bütün resimlerin adı ve açıklaması farklı ve düzenlenebilir olacak şekilde js kodunu tekrar düzenle.
+
+Prompt 5: 8 resimlik olacak şekilde tekrar düzenle.
+
+Prompt 6: Sana verdiğim kriterlerle eşleşmeyen herhangi bir aksaklık var mı diye kodları tekrardan kontrol et.
+
+
+
+LOGO:
+
+Copilot
+
+Prompt 1:I need logo for my company (Mami Games) that one of the best video company in the world. You need to use these elements in the logo ; Video Game Console, Gamepad, contrast colors and of course name of the company. While you generating this logo you can take reference form the other video game companies and web sites.
+
+
+Prompt 2:Can you do this logo with more modern style
+
+
+
+Prompt 3:What are some other design elements that could be added to the logo?
+
+
+Prompt 4:Can you use the seventh style for my logo
+
+
+METİNLER:
+
+Copilot
+
+Prompt 1:Bana birbirinden tamamen farklı konuları ele alan farklı türlerde 8 farklı video oyunu yarat, onlara özgün bir isim bul ve yine özgün bir şekilde isimlerini yansıtan 400-700 karakter arası oyuncuları o oyunu almaya ikna edecek bir alt metin yaz.
+
+
+
+GÖRSELLER-AFİŞLER
+
+Copilot Designer:
+
+Prompt 1:
+
+1. **Gölgelerin Efendisi**: Antik bir dünyada geçen bu RPG'de, kayıp krallığın sırlarını çözün. *Gölgelerin Efendisi'nde efsanevi canavarlarla savaşırken, büyülü dünyanın derinliklerine dalın. Unutulmuş toprakları keşfedin ve kaderinizi yazın.*
+
+2. **Kozmik Kaçış**: Uzay geminizi düşman topraklarından kaçırın. *Kozmik Kaçış'ta refleksleriniz test edilecek. Zekice manevralar yapın ve galaksiyi kurtarın. Her seviye, sizi yıldızlar arası bir maceraya sürükleyecek.*
+
+3. **Zamanın Kumları**: Zamanda yolculuk ederek tarihi olayları değiştirin. *Zamanın Kumları'nda tarihin akışını yönlendirin. Her kararınız, geleceği şekillendirecek. Tarihi yeniden yazmaya hazır  Tabii ki, işte farklı türlerde 5 farklı video oyunu ve onlara özgün isimler ile alt metinler:
+
+4. **Sonsuz Labirent**: Bu bulmaca oyununda, sonsuz değişen labirentlerden çıkış yolu bulun. *Sonsuz Labirent'te her seviye, zekanızı sınayacak. Yolunuzu bulun ve labirentin efendisi olun.*
+
+5. **Derin Uzay Sözleşmesi**: Bir uzay kaşifi olarak, yeni gezegenler keşfedin ve ticaret yapın. *Derin Uzay Sözleşmesi'nde galaksiyi dolaşın, nadir kaynaklar bulun ve evrenin en zengin tüccarı olun.*
+
+6. **Karanlıkta Yankı**: Bu korku oyununda, terk edilmiş bir hastanede hayatta kalmaya çalışın. *Karanlıkta Yankı'da nefesinizi tutun ve karanlığın içindeki sırları açığa çıkarın. Cesaretiniz var mı?*
+
+7. **Dünya İnşaatçısı**: Kendi dünyanızı yaratın ve yönetin. *Dünya İnşaatçısı'nda kendi medeniyetinizi kurun, kaynakları yönetin ve dünyanızın kaderini belirleyin.*
+
+8. **Savaşçıların Turnuvası**: En güçlü savaşçıyı yetiştirin ve arenada savaşın. *Savaşçıların Turnuvası'nda stratejinizi belirleyin, rakiplerinizi yenin ve şampiyon olun.*                 
+(Bana sırayla her biri için özgün ve ilgi çekici bir kapak(Afiş) oluşturur musun ?)
+
+
+
+
+
+
